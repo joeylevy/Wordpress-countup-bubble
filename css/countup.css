@@ -1,0 +1,20 @@
+.JDL_counter {
+    display: table-cell;
+
+    font-size:50px;
+    margin: 1.5%;
+    width:200px;
+    border-radius: 50%;
+    height:200px;
+    vertical-align: middle;
+    text-align: center;
+    color:white;
+
+}
+
+.JDL_count_up_small{
+    font-size:20px;
+    text-align: center;
+    color:white;
+    line-height:55px;
+}
